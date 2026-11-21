@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立游戏开发指南"
+  short_description: "面向独立游戏的范围控制、UI、项目架构、进度、美术和文本工作流"
+  default_prompt: "使用 $indie-game-dev，结合我的团队规模、目标平台和当前进度，完成本次独立游戏开发任务。"
